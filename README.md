@@ -1,6 +1,8 @@
 # train-polygon-key
 用3d打印技术制造出各种多边形钥匙
+虽然有一把钳子也能办到，但是...我做这个项目主要的原因是闲的
 Various polygonal keys are made with 3D printing technology
+Although it can be done with a pair of pliers, but... the main reason I do this project is idle time
 
 图片image
 =========
