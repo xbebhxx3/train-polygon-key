@@ -13,7 +13,7 @@ Various polygonal keys are made with 3D printing technology
 问题报告
 =========
 
-如果您打印密钥但它不起作用：
+如果您打印的钥匙无法使用：
 
 * 首先，使用卡尺或其他高精度设备确保您打印的钥匙与模型准确无误。湿度、膨胀和环境室温会对打印尺寸精度产生严重影响。
 
